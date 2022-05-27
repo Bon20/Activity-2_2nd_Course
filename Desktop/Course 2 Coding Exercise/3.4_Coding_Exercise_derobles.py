@@ -1,0 +1,8 @@
+f = open("Myfile.txt", "w")
+f.write("The syntax is simple and easy to understand")
+f = open("Myfile.txt", "a")
+f.write("\nI will try to create a simple program in Python")
+f.write("\nI'll practice by coding a simple program based on what I learn")
+f.write("\nTo be a Python Programmer")
+f = open("Myfile.txt", "r")
+f.close()
