@@ -1,0 +1,4 @@
+The syntax is simple and easy to understand
+I will try to create a simple program in Python
+I'll practice by coding a simple program based on what I learn
+To be a Python Programmer
